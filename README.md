@@ -1,6 +1,6 @@
 # README
 <a href = https://github.com/Luxilux/Hacking-News/blob/master/README.md#explications> Explications<a/> <br>
-<a href = https://github.com/Luxilux/Hacking-News/blob/master/README.md#resultat> Résultats<a/>
+<a href = https://github.com/Luxilux/Hacking-News/blob/master/README.md#résultat> Résultats<a/>
 
 # BDD Hacking News
 
