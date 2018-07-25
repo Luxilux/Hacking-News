@@ -5,11 +5,11 @@
 # BDD Hacking News
 
 # Explications 
-Création d'un message board dans lequel les utilisateurs peuvent poster des liens. Les autres utilisateurs peuvent commenter les liens soumis, ou commenter les commentaires. 
+Création d'un un site où les utilisateurs peuvent créer des "pins". Chauque pins contiendra une URL d'une image sur le net. Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les commentaires.
 Les différentes tabs sont : 
+* Pins
 * User
-* Liens
-* Commentaires
+* Commentaire
 
 Remarque :  Le contenu de cette BDD ne contient que des datas qui ont été crée à  l'aide de la gem 'Faker'
 
